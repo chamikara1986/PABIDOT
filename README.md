@@ -7,4 +7,4 @@ Computing technologies pervade physical spaces and human lives, and produce a va
 
 # Implementation
 
-Please refer to the paper available at https://www.sciencedirect.com/science/article/pii/S0020025519304578 to understand the steps of the algorithm.
+Please refer to the paper available at https://www.sciencedirect.com/science/article/pii/S0020025519304578 to understand the steps of the algorithm (refer to the implementation available in PABIDOT.m file).
